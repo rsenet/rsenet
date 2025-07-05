@@ -26,6 +26,7 @@ Welcome to my central hub of open-source cybersecurity tools. Whether you're a p
 | [**AndroCert**](https://github.com/rsenet/AndroCert) | Extract and display certificate information from APK files | Python |
 | [**androsnap**](https://github.com/rsenet/androsnap) | Collect Android config for audit snapshots | Python |
 | [**apkfram**](https://github.com/rsenet/apkfram) | Detect the framework behind Android apps | Python |
+| [**Application Components Grabber**](https://github.com/rsenet/Application-Components-Grabber) | Extract and list Android exported components from an APK manifest  | Python |
 | [**burp\_cert\_install**](https://github.com/rsenet/burp_cert_install) | Script to auto-install Burp Suite cert | Shell |
 | [**dir2mob**](https://github.com/rsenet/dir2mob) | Automate the bulk upload, scan and report download of APKs to a MobSF instance  | Python |
 | [**DeployMyFridaEnv**](https://github.com/rsenet/DeployMyFridaEnv) | Quickly deploy a Frida environment (client/server) | Shell |
