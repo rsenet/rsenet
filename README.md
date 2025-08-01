@@ -23,6 +23,7 @@ Welcome to my central hub of open-source cybersecurity tools. Whether you're a p
 | Project | Description | Language |
 |--------|-------------|----------|
 | [**adbbrute**](https://github.com/rsenet/adbbrute) | ADB-based lockscreen brute-forcer | Python |
+| [**Android Lib Detector**](https://github.com/rsenet/android_lib_detector) | dentify third-party libraries and native libraries in APK files  | Python |
 | [**AndroCert**](https://github.com/rsenet/AndroCert) | Extract and display certificate information from APK files | Python |
 | [**androsnap**](https://github.com/rsenet/androsnap) | Collect Android config for audit snapshots | Python |
 | [**apkfram**](https://github.com/rsenet/apkfram) | Detect the framework behind Android apps | Python |
